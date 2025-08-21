@@ -1,2 +1,2 @@
 # sync-practice
-web
+web and local
